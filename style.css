@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    background-color:black;
+}
+
+h1{
+    font-size: 5rem;
+    font-family: "Arvo", cursive;
+    color: aliceblue;
+    text-shadow:5px 0 #990145;
+
+}
+.D{
+    background-image: url("drum12.jpeg"); 
+    background-size: cover;
+    width: 8rem;
+    height: 8rem;
+}
+
+.img{
+    height: 150px;
+    width: 150px;
+}
+
+footer{
+    font-family:cursive;
+    margin-top: 200px;
+    font-size: 1.5rem;
+    color: antiquewhite;
+    text-shadow:1px 0 #990145;
+
+}
+
+
+.I{
+    background-image: url("drum6.jpg");
+    background-size: cover;
+    width: 8rem;
+    height: 8rem;
+}
+
+.V{
+    background-image: url("drum10.jpeg"); 
+    background-size: cover;
+    width: 8rem;
+    height: 8rem;
+}
+
+
+
+.Y{
+    background-image: url("drum4.jpg");
+    background-size: cover;
+    width: 8rem;
+    height: 8rem;
+}
+
+
+.A{
+    background-image: url("drum5.jpg");
+    background-size: cover;
+    width: 8rem;
+    height: 8rem;
+}
+
+
+.G{
+    background-image: url("drum11.jpeg");
+    background-size: cover;
+    width: 8rem;
+    height: 8rem;
+}
+
+
+
+.drum{
+    height: 180px;
+    width:180px;
+    outline:none;
+    border: 9px solid white;
+    margin-right: 20px ;
+    color: aliceblue;
+    font-size: 5rem;
+    text-align: center;
+    display: inline-block;
+    font-weight: 1000;
+    text-shadow: 9px 0 #990145;
+    border-radius: 8px;
+    margin-top: 10px;
+    /* line-height: 2; */
+
+    
+}
+/* .set {
+    margin: 10% auto; */
+/* } */
+
+/* .game-over {
+    background-color: green;
+    opacity: 0.8;
+  } */
+  
+.pressed {
+    box-shadow: 0 3px 4px 0 darkred ;
+    opacity: 0.5;
+  }
+  
+  /* .red {
+    color:red;
+  }
+   */
